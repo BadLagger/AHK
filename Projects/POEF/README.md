@@ -1,0 +1,1 @@
+Loot filter generator for Path of Exile.
